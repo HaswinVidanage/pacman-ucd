@@ -1,7 +1,10 @@
-E:\pacman\PacMan>gcc make_pacman_map.c
+PACMAN BFS DFS IDFS
 
-E:\pacman\PacMan>.\a.exe
 
-E:\pacman\PacMan>gcc pacman_search.c
+gcc make_pacman_map.c
 
-E:\pacman\PacMan>.\a.exe < PacManMap.txt
+.\a.exe
+
+gcc pacman_search.c
+
+.\a.exe < PacManMap.txt
